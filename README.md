@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boelchan
 - 👀 I’m interested in PHP laravel
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning laravel & livewire
 
 <!---
 boelchan/boelchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
